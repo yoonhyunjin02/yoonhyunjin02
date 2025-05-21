@@ -3,6 +3,8 @@
 <!--
 **yoonhyunjin02/yoonhyunjin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
