@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight)
