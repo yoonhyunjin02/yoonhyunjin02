@@ -1,23 +1,32 @@
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight)
+<h1 align="center">👋 Hi, I'm Hyunjin Yoon!</h1>
+<p align="center">💻 Backend Developer | 📚 Blogger | 🌱 Growth-focused</p>
 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
-[![Tistory](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
-<a href="https://yoonhyunjin.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog Badge">
-</a>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+### 🎯 Coding Profile
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)
+
+---
+
+### 📝 Blog
+
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
+
+---
+
+### 💬 Contact
+
+- 📧 hyunjin020713@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/hyunjin020713)
 <!--
-**yoonhyunjin02/yoonhyunjin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 [Portfolio Site](https://your-portfolio-link.com) *(선택사항)*-->
