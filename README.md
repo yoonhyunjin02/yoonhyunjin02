@@ -4,7 +4,9 @@
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
 [![Tistory](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
-
+<a href="https://yoonhyunjin.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog Badge">
+</a>
 <!--
 **yoonhyunjin02/yoonhyunjin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
