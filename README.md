@@ -2,6 +2,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight)
 
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white)](https://yoonhyunjin.tistory.com/)
+
 <!--
 **yoonhyunjin02/yoonhyunjin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
