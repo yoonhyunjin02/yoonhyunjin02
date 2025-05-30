@@ -31,7 +31,17 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/hyunjin020713)
 
 ---
+### 🪪 Background
+- 국립부경대학교 컴퓨터인공지능공학부 졸업 (2021/03/01 ~ 2025/02/21)
+  - 학생회
+    - 2021년 학과 conCEnt 학생회 총무부원
+    - 2022년 학과 MIXIN 학생회 총무부장
+  - 연구실
+    - 정목동 교수님: 컴퓨터보안 및 인공지능 연구실 (22/03/01 ~ 2025/02/21)
+- 사상 잼코딩 강사 아르바이트 (2022/11/08 ~ 2025/03/28)
+- ESTsoft 백엔드 개발자 양성 과정 오르미(11기) (2025/04/08 ~ 2025/08/25)
 
+  
 ### 💻 Project
 - [프라이빗 블록체인기반 중고거래 스마트락커 앱 중계 서비스](https://github.com/PKNU-Ojakgyo) (2023년 2월 9일 ~ 2024년 1월 31일)
 - [youtube-clone-frontend 프로젝트](https://github.com/yoonhyunjin02/youtube-clone-frontend) (2025년 4월 21일 ~ 2025년 5월 12일)
