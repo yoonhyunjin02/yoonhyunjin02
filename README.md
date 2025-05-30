@@ -29,4 +29,4 @@
 - 📧 hyunjin020713@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/hyunjin020713)
 <!--
-- 📌 [Portfolio Site](https://your-portfolio-link.com) *(선택사항)*-->
+- 📌 [Portfolio Site](https://yoonhyunjin02.github.io/mypage/) *(선택사항)*-->
