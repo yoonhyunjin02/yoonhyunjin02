@@ -44,8 +44,11 @@
 ---
   
 ### 💻 Project
+#### 👥 Team project
 - [프라이빗 블록체인기반 중고거래 스마트락커 앱 중계 서비스](https://github.com/PKNU-Ojakgyo) (2023년 2월 9일 ~ 2024년 1월 31일)
 - [youtube-clone-frontend 프로젝트](https://github.com/yoonhyunjin02/youtube-clone-frontend) (2025년 4월 21일 ~ 2025년 5월 12일)
+
+#### 👤 Individual project
 ---
 
 ### 🏆 Award
