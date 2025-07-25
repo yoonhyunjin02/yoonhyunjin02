@@ -6,7 +6,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoonhyunjin02&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoonhyunjin02&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight" width="355px"/>
 </p>
 
