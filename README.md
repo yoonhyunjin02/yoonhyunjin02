@@ -53,12 +53,12 @@
 ---
 
 ### 🏆 Award
-- 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상]** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
-- 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상]** *23/12/07* 국립부경대학교 정보융합대학장상
-- 🥇 **[2023 한국멀티미디어학회 추계학술발표대회 우수논문상]** *23/11/17* 한국멀티미디어학회 학회장상
-- 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려]** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
-- 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상]** *24/02/14* 국립부경대학교 교수학습지원센터장상
+- 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상](https://drive.google.com/file/d/1PnfrMCvQCdQKSjz1zAOlP1FNKwAwbgZt/view?usp=sharing)** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
+- 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상](https://drive.google.com/file/d/1nlSI_mrvPc0hDIFHeG0EgV24XB6DYfvT/view?usp=sharing)** *23/12/07* 국립부경대학교 정보융합대학장상
+- 🥇 **[2023 한국멀티미디어학회 추계학술발표대회 우수논문상](https://drive.google.com/file/d/1wysre0avJ8C4X7yyk0zDlJoYpdVwpr4x/view?usp=sharing)** *23/11/17* 한국멀티미디어학회 학회장상
+- 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려](https://drive.google.com/file/d/1oiMoBCEQzQYztCKfnD7FvdrMyTPk8rlZ/view?usp=sharing)** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
+- 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
 
   
 - 🥇 **[이스트소프트 백엔드 개발자 양성과정 2차 팀프로젝트 최우수상]** *25/07/23* 이스트소프트
-- 🥈 **[이스트소프트 백엔드 개발자 양성과정 1차 팀프로젝트 우수상]** *25/05/16* 이스트소프트
+- 🥈 **[이스트소프트 백엔드 개발자 양성과정 1차 팀프로젝트 우수상](https://drive.google.com/file/d/1MP47c6oFYYslfqSpMPIzjMqutQAo7uuH/view?usp=sharing)** *25/05/16* 이스트소프트
