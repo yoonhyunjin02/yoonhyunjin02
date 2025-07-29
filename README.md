@@ -60,5 +60,5 @@
 - 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
 
   
-- 🥇 **[이스트소프트 백엔드 개발자 양성과정 2차 팀프로젝트 최우수상]** *25/07/23* 이스트소프트
+- 🥇 **[이스트소프트 백엔드 개발자 양성과정 2차 팀프로젝트 대상](https://drive.google.com/file/d/19hS6ZLi4toHw3jzvoetbCCVGkySAvmXM/view?usp=sharing)** *25/07/23* 이스트소프트
 - 🥈 **[이스트소프트 백엔드 개발자 양성과정 1차 팀프로젝트 우수상](https://drive.google.com/file/d/1MP47c6oFYYslfqSpMPIzjMqutQAo7uuH/view?usp=sharing)** *25/05/16* 이스트소프트
