@@ -32,7 +32,7 @@
 
 ---
 ### 🪪 Background
-- 국립부경대학교 컴퓨터인공지능공학부 졸업 (2021/03/01 ~ 2025/02/21)
+- [국립부경대학교 컴퓨터인공지능공학부 졸업](https://drive.google.com/file/d/1MtytKeDGykFl0ytEp8r6GebOb1i8bIxm/view?usp=sharing) (2021/03/01 ~ 2025/02/21)
   - 학생회
     - 2021년 학과 conCEnt 학생회 총무부원
     - 2022년 학과 MIXIN 학생회 총무부장
