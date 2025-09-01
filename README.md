@@ -45,10 +45,11 @@
   
 ### 💻 Project
 #### 👥 Team project
-- [프라이빗 블록체인기반 중고거래 스마트락커 앱 중계 서비스](https://github.com/PKNU-Ojakgyo) (2023년 2월 9일 ~ 2024년 1월 31일)
-- [챗봇 기능이 있는 당근 마켓 클론 코딩 프로젝트](https://github.com/yoonhyunjin02/Trade_market) (2025년 7월 3일 ~ 7월 23일)
-- [youtube-clone-frontend 프로젝트](https://github.com/yoonhyunjin02/youtube-clone-frontend) (2025년 4월 21일 ~ 2025년 5월 12일)
-- [Heritage Hunters 프로젝트](https://github.com/yoonhyunjin02/heritage-hunters) (2025년 7월 28일 ~ 2025년 8월 25일)
+- (2023년 2월 09일 ~ 2024년 1월 31일) [프라이빗 블록체인기반 중고거래 스마트락커 앱 중계 서비스](https://github.com/PKNU-Ojakgyo)
+- (2025년 7월 28일 ~ 2025년 8월 25일) [Heritage Hunters 프로젝트](https://github.com/yoonhyunjin02/heritage-hunters) 
+- (2025년 7월 03일 ~ 2025년 7월 23일) [챗봇 기능이 있는 당근 마켓 클론 코딩 프로젝트](https://github.com/yoonhyunjin02/Trade_market)
+- (2025년 4월 21일 ~ 2025년 5월 12일) [youtube-clone-frontend 프로젝트](https://github.com/yoonhyunjin02/youtube-clone-frontend) 
+
 
 #### 👤 Individual project
 ---
