@@ -39,7 +39,7 @@
   - 연구실
     - 정목동 교수님: 컴퓨터보안 및 인공지능 연구실 (22/03/01 ~ 2025/02/21)
 - 사상 잼코딩 강사 아르바이트 (2022/11/08 ~ 2025/03/28)
-- ESTsoft 백엔드 개발자 양성 과정 오르미(11기) (2025/04/08 ~ 2025/08/25)
+- [ESTsoft 백엔드 개발자 양성 과정 오르미(11기)](https://drive.google.com/file/d/1NbINCP66qrSJN3EAYrIjFuPhY8cblA00/view?usp=sharing) (2025/04/08 ~ 2025/08/25)
 
 ---
   
@@ -61,6 +61,6 @@
 - 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려상](https://drive.google.com/file/d/1oiMoBCEQzQYztCKfnD7FvdrMyTPk8rlZ/view?usp=sharing)** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
 - 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
 
-- 🥇 **[이스트소프트 백엔드 개발자 양성과정 3차 팀프로젝트 대상](링크)** *25/08/25* 이스트소프트
+- 🥇 **[이스트소프트 백엔드 개발자 양성과정 3차 팀프로젝트 대상](https://drive.google.com/file/d/10SzKO1w-ZeYVkab1JDicOet0-iL_z8IZ/view?usp=sharing)** *25/08/25* 이스트소프트
 - 🥇 **[이스트소프트 백엔드 개발자 양성과정 2차 팀프로젝트 대상](https://drive.google.com/file/d/19hS6ZLi4toHw3jzvoetbCCVGkySAvmXM/view?usp=sharing)** *25/07/23* 이스트소프트
 - 🥈 **[이스트소프트 백엔드 개발자 양성과정 1차 팀프로젝트 우수상](https://drive.google.com/file/d/1MP47c6oFYYslfqSpMPIzjMqutQAo7uuH/view?usp=sharing)** *25/05/16* 이스트소프트
