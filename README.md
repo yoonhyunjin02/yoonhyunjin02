@@ -2,7 +2,7 @@
 <p align="center">💻 Backend Developer | 📚 Blogger | 🌱 Growth-focused</p>
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -11,7 +11,6 @@
 </p>
 
 ---
--->
 ### 🎯 Coding Profile
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)
 
