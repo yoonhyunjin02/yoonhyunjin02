@@ -30,15 +30,13 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/hyunjin020713)
 
 ---
-### 🪪 Background
+### 🧍‍♀️ Background
 - [국립부경대학교 컴퓨터인공지능공학부 졸업](https://drive.google.com/file/d/1MtytKeDGykFl0ytEp8r6GebOb1i8bIxm/view?usp=sharing) (2021/03/01 ~ 2025/02/21)
-  - 학생회
-    - 2021년 학과 conCEnt 학생회 총무부원
-    - 2022년 학과 MIXIN 학생회 총무부장
-  - 연구실
-    - 정목동 교수님: 컴퓨터보안 및 인공지능 연구실 (2022/03/01 ~ 2025/02/21)
+  - 학과 학생회: conCEnt 학생회 총무부원(21), MIXIN 학생회 총무부장(22)
+  - 정목동 교수님 연구실: 컴퓨터보안 및 인공지능 연구실 (2022/03/01 ~ 2025/02/21)
 - 사상 잼코딩 강사 아르바이트 (2022/11/08 ~ 2025/03/28)
 - [ESTsoft 백엔드 개발자 양성 과정 오르미(11기)](https://drive.google.com/file/d/1NbINCP66qrSJN3EAYrIjFuPhY8cblA00/view?usp=sharing) (2025/04/08 ~ 2025/08/25)
+- ESTsoft 인턴십 개발 TF (2026/02/23 ~ 2026/03/22)
 
 ---
   
@@ -50,7 +48,13 @@
 - (2025년 4월 21일 ~ 2025년 5월 12일) [youtube-clone-frontend 프로젝트](https://github.com/yoonhyunjin02/youtube-clone-frontend) 
 
 
-#### 👤 Individual project
+<!--#### 👤 Individual project-->
+---
+  
+### 🪪 Certificated
+- 정보처리기사
+- SQLD (SQL 개발자)
+- ADsP (데이터분석준개발자)
 ---
 
 ### 🏆 Award
@@ -59,6 +63,8 @@
 - 🥇 **[2023 한국멀티미디어학회 추계학술발표대회 우수논문상](https://drive.google.com/file/d/1wysre0avJ8C4X7yyk0zDlJoYpdVwpr4x/view?usp=sharing)** *23/11/17* 한국멀티미디어학회 학회장상
 - 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려상](https://drive.google.com/file/d/1oiMoBCEQzQYztCKfnD7FvdrMyTPk8rlZ/view?usp=sharing)** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
 - 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
+
+<br>
 
 - 🥇 **[이스트소프트 백엔드 개발자 양성과정 3차 팀프로젝트 대상](https://drive.google.com/file/d/10SzKO1w-ZeYVkab1JDicOet0-iL_z8IZ/view?usp=sharing)** *25/08/25* 이스트소프트
 - 🥇 **[이스트소프트 백엔드 개발자 양성과정 2차 팀프로젝트 대상](https://drive.google.com/file/d/19hS6ZLi4toHw3jzvoetbCCVGkySAvmXM/view?usp=sharing)** *25/07/23* 이스트소프트
