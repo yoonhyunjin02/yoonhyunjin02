@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hyunjin Yoon!</h1>
 <p align="center">💻 Backend Developer | 📚 Blogger | 🌱 Growth-focused</p>
-<!--
----
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -10,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhyunjin02&layout=compact&theme=tokyonight" width="355px"/>
 </p>
 -->
+
 ---
 ### 🎯 Coding Profile
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjin0713)](https://solved.ac/hyunjin0713)
